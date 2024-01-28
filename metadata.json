@@ -1,7 +1,7 @@
 [
   {
-    "name": "Test",
-    "description": "Test script",
-    "path": "./test.sh"
+    "name": "Example",
+    "description": "Example script",
+    "path": "./example.sh"
   }
 ]

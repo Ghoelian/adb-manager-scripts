@@ -3,5 +3,10 @@
     "name": "Example",
     "description": "Example script",
     "path": "./example.sh"
+  },
+  {
+    "name": "Display success",
+    "description": "Display success activity",
+    "path": "./display-success.sh"
   }
 ]
